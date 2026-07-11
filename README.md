@@ -1,1 +1,4 @@
 # ERP-Based-Supply-Chain-Transformation
+This project presents a design for BlueStar Retail, a fictional mid-sized multi-channel retailer facing operational challenges due to fragmented systems, manual processes, and inconsistent data. The objective is to analyze the existing business processes, identify operational bottlenecks, and propose an integrated ERP solution that streamlines end-to-end supply chain operations.
+
+The project covers the complete business transformation lifecycle, including As-Is and To-Be BPMN process models, workflow analysis, root cause analysis, ERP module mapping, data modeling (ERD), functional requirements, KPI design, implementation roadmap, and change management strategy. The proposed ERP solution integrates key business functions such as Order-to-Cash, Procure-to-Pay, Inventory & Warehouse Management, Fulfillment, Returns, Finance, and Customer Management into a unified system.
